@@ -5,4 +5,7 @@ class Perosn
   def name=(name)
     @name
   end
-  def 
+  def name
+    @name
+  end
+end
